@@ -1,6 +1,6 @@
 # IMDB-Movies
 
-## Note 5/17/23: Project is currently being overhauled, please excuse any inconsistencies with data/code
+# 5/16 Note: Project is currently being overhauled, as such, some code will be outdated
 
 ## Extracting, Transforming, and Loading movie information using APIs and SQL
 
