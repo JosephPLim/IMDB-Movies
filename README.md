@@ -1,5 +1,7 @@
 # IMDB-Movies
 
+## Note 5/17/23: Project is currently being overhauled, please excuse any inconsistencies with data/code
+
 ## Extracting, Transforming, and Loading movie information using APIs and SQL
 
 ## Author: Joseph Lim
